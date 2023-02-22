@@ -1,0 +1,36 @@
+/* Write your code here. */
+.app-container {
+  background-color: #f1f5f8;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-left: 22px;
+  padding-right: 22px;
+  padding-top: 36px;
+  padding-bottom: 36px;
+}
+
+.faqs-app {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 12px;
+  border-radius: 24px;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+}
+
+.faqs-title {
+  font-family: Roboto;
+  color: #cb8805;
+  font-size: 32px;
+  font-weight: bold;
+  margin-top: 12px;
+  margin-bottom: 32px;
+  text-align: center;
+}
+
+.faq-items-container {
+  padding: 0px;
+}
